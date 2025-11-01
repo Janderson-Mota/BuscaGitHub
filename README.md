@@ -8,11 +8,11 @@ O sistema realiza uma requisição HTTP, interpreta o retorno em **JSON**, conve
 
 ## 🚀 Tecnologias utilizadas
 
-* ☕ **Java 17+**
-* 🌱 **Spring Boot**
+* ☕ **Java 17**
+* 🌱 **Spring Boot 3.5.7**
+* 🧰 **Gson 2.13.2**
+* 🧱 **Maven 3+**
 * 🔗 **API pública do GitHub**
-* 🧰 **Gson (Google)**
-* 🧱 **Maven**
 
 ---
 
@@ -85,7 +85,7 @@ src/
 ## ✨ Autor
 
 👤 **Janderson Mota**
-📘 Ciência da Computação 
+📘 Ciência da Computação | 💻 Desenvolvedor e baterista 🥁
 💬 “Entre o código e a bateria, sempre no tempo certo.”
 🔗 [github.com/Janderson-Mota](https://github.com/Janderson-Mota)
 
