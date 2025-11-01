@@ -28,13 +28,14 @@ O projeto faz uma requisição HTTP para a API, lê os dados em formato **JSON**
 
 ## 💻 Exemplo de saída no console
 
-```
-Perfil:
-   Id: 972709
-   Nome: ffffffff
-   Biografia: null
-   Url: https://github.com/ffffffff
-```
+---
+
+🌐 ===== PERFIL ENCONTRADO =====
+🆔 ID: 179471893
+👤 Nome: Janderson-Mota
+💬 Biografia: Entre o código e a bateria, sempre no tempo certo. 💻🥁
+🔗 Perfil GitHub: https://github.com/Janderson-Mota
+===============================
 
 ---
 
