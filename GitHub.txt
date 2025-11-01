@@ -1,0 +1,19 @@
+Perfil: 
+   Id: null
+   Nome: null
+   Biografia: null
+   Url: null
+
+ Perfil: 
+   Id: 972709
+   Nome: ffffffff
+   Biografia: null
+   Url: https://github.com/ffffffff
+
+ Perfil: 
+   Id: 972709
+   Nome: ffffffff
+   Biografia: null
+   Url: https://github.com/ffffffff
+
+ 
